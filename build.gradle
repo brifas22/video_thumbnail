@@ -4,7 +4,7 @@ plugins {
 }
 
 android {
-    namespace = "com.fatech.boussole.videothumbnail" // ✅ requis depuis AGP 8
+    namespace = "com.brifas22.video_thumbnail" // ✅ requis depuis AGP 8
     compileSdk = 35
 
     defaultConfig {
